@@ -143,20 +143,22 @@ Gambar bagian 3
  
  ![image](https://user-images.githubusercontent.com/101716699/169636745-9b72839b-8ea1-4a07-8869-c7c25f5f9172.png)
 
-
 17.	Buat lagi file baru untuk tabel user dengan nama user.php seperti berikut.
+
 Gambar bagian 1
  
+ ![image](https://user-images.githubusercontent.com/101716699/169636806-41bea8ee-f90f-46b6-9f69-2c9c1cdc8fc3.png)
+
 Gambar bagian 2
  
+ ![image](https://user-images.githubusercontent.com/101716699/169636810-a67b3b95-f9cc-4bb5-b3ed-f9504b925362.png)
+
 Gambar bagian 3
  
+![image](https://user-images.githubusercontent.com/101716699/169636814-94add72e-56d3-439a-9da4-2987622b7605.png)
 
 18.	Simpan dan buka pada browser dengan klik pada navbar user di halaman index.
  
+![image](https://user-images.githubusercontent.com/101716699/169636816-8d216af8-3009-40c2-865d-75120f0d3e54.png)
 
 Note: mohon maaf bapak pada repository ini saya melampirkan file php saya agar bapak dapat melihat dengan jelas jika gambar screenshoot nya kurang jelas. Terimakasih.
-
-
-
-
